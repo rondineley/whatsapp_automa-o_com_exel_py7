@@ -1,0 +1,33 @@
+ERROR:root:Erro ao enviar mensagens: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+	GetHandleVerifier [0x00F8EC13+23731]
+	(No symbol) [0x00F1C394]
+	(No symbol) [0x00DFBE63]
+	(No symbol) [0x00DDD92B]
+	(No symbol) [0x00E67F7F]
+	(No symbol) [0x00E7AD99]
+	(No symbol) [0x00E61BF6]
+	(No symbol) [0x00E33F35]
+	(No symbol) [0x00E34EBD]
+	GetHandleVerifier [0x0126F0D3+3039603]
+	GetHandleVerifier [0x01282DEA+3120778]
+	GetHandleVerifier [0x0127B592+3089970]
+	GetHandleVerifier [0x010243B0+635984]
+	(No symbol) [0x00F24DCD]
+	(No symbol) [0x00F22068]
+	(No symbol) [0x00F22205]
+	(No symbol) [0x00F14FD0]
+	BaseThreadInitThunk [0x76AEFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x773F809E+286]
+	RtlGetAppContainerNamedObjectPath [0x773F806E+238]
+
+ERROR:root:Erro ao enviar mensagens: 'str' object has no attribute 'strftime'
+ERROR:root:Erro ao enviar mensagens: 'str' object has no attribute 'strftime'
+ERROR:root:Erro ao enviar mensagens: 'str' object has no attribute 'strftime'
+ERROR:root:Erro ao enviar mensagens: 'str' object has no attribute 'strftime'
+2024-12-27 16:54:44,128 - ERROR - Erro ao enviar mensagens: 'str' object has no attribute 'strftime'
+2024-12-27 16:54:46,049 - ERROR - Erro ao enviar mensagens: 'str' object has no attribute 'strftime'
+2024-12-27 16:54:46,440 - ERROR - Erro ao enviar mensagens: 'str' object has no attribute 'strftime'
+2024-12-27 16:54:46,657 - ERROR - Erro ao enviar mensagens: 'str' object has no attribute 'strftime'
